@@ -1,0 +1,138 @@
+Package: com.cabralcole.appcolorbadges
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: cole cabral
+Installed-Size: 420
+Depends: mobilesubstrate, preferenceloader, firmware (>= 10.1), ws.hbang.common (>= 1.2)
+Filename: ./debs/com.cabralcole.appcolorbadges_0.0.1_iphoneos-arm.deb
+Size: 17880
+MD5sum: 8e1c711c430828efce918ed430827f53
+SHA1: b31535f88029a3b106ebc5fda044ca783b31e226
+SHA256: 11e6dd17c566bc129fe827b3f2c9f3b7230bb509b5a1a6b56cc32a94ab0ac7cf
+Section: Tweaks
+Description: Color badges based on app icon color.
+Author: cole cabral
+Depiction: http://ca13ra1.github.io/repo/appcolorbadges/index.html
+Icon: file:///Library/PreferenceBundles/AppColorBadgesSettings.bundle/AppColorBadges@2x.png
+Name: AppColorBadges
+
+Package: com.cabralcole.flashbar
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: cole cabral
+Installed-Size: 152
+Depends: mobilesubstrate, org.thebigboss.libstatus9, firmware (>= 9.1)
+Filename: ./debs/com.cabralcole.flashbar_0.0.1_iphoneos-arm.deb
+Size: 9402
+MD5sum: 98d26008e2664b2208c6aa20a8b00255
+SHA1: cd79bf566fd0e4d01c1838307d68c5ed0c4f232a
+SHA256: b65609fa18b87ea2942500430cb064391d30d047b9ab4020d0a6024f2270d514
+Section: Tweaks
+Description: Flashlight icon in statusbar.
+Author: cole cabral
+Depiction: http://ca13ra1.github.io/repo/flashbar/index.html
+Icon: file:///Library/Application Support/FlashBar/FlashBar@2x.png
+Name: FlashBar
+
+Package: com.cabralcole.livelyclock
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: cole cabral
+Installed-Size: 136
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.2), firmware (>= 9.0)
+Filename: ./debs/com.cabralcole.livelyclock_0.0.1_iphoneos-arm.deb
+Size: 3726
+MD5sum: a30324a377c33efa91c4205738b3f2eb
+SHA1: d2b71a6cc713e25b6122dc8037a2fefe5d5d8c47
+SHA256: b5ceddb35ea548af9c7cb4e409cec441168b25bdbb31f052da9f71d2b25056ba
+Section: Tweaks
+Description: Show 12/24 hour time for Clock app name.
+Author: cole cabral
+Depiction: http://ca13ra1.github.io/repo/livelyclock/index.html
+Name: LivelyClock
+
+Package: com.cabralcole.nobreadcrumbs
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: cole cabral
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./debs/com.cabralcole.nobreadcrumbs_1.0.0_iphoneos-arm.deb
+Size: 2554
+MD5sum: 958ef9329966e790e494dcb91fddc2e3
+SHA1: e423779c28766e22458d8f1be442973e4f8b5206
+SHA256: f283fdfc7c09c1af21e9315714a65181b383d85c61a96dacfbe85ebc64310060
+Section: Tweaks
+Description: No breadcrumbs at all.
+Author: cole cabral
+Depiction: http://ca13ra1.github.io/repo/nobreadcrumbs/index.html
+Name: NoBreadcrumbs
+
+Package: com.cabralcole.nolockshots
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: cole cabral
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 9.0)
+Filename: ./debs/com.cabralcole.nolockshots_1.0.0_iphoneos-arm.deb
+Size: 2778
+MD5sum: 75d5b1477f7ee23f99ec09e29765b6c6
+SHA1: 9d29ea8339e3917c375c675f74a05f10bbc73bdd
+SHA256: cd26cd614cd38930945dcf69f87992210ae6277cfbcff0cd29fdf19eedbc5aa3
+Section: Tweaks
+Description: No screenshots on lockscreen.
+Author: cole cabral
+Depiction: http://ca13ra1.github.io/repo/nolockshots/index.html
+Name: NoLockShots
+
+Package: com.cabralcole.tokesareonme
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: cole cabral
+Installed-Size: 212
+Depends: mobilesubstrate, org.thebigboss.libstatus9, firmware (>= 10.0)
+Filename: ./debs/com.cabralcole.tokesareonme_1.0.0_iphoneos-arm.deb
+Size: 7962
+MD5sum: f5d42668133df570295a81e55c9f6591
+SHA1: dc526f927adc424111a0a385ae58d7ac0d0babda
+SHA256: 3c1e24449c71510b66195c3bbf8eb2e9bcb8781ec5bf037f058b6b9df72ae564
+Section: Tweaks
+Description: Tokes are on me.
+Author: cole cabral
+Depiction: http://ca13ra1.github.io/repo/tokesareonme/index.html
+Name: TokesAreOnMe
+
+Package: com.cabralcole.twitter3dshortcuts
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: cole cabral
+Installed-Size: 136
+Depends: mobilesubstrate, firmware (>= 10.0)
+Filename: ./debs/com.cabralcole.twitter3dshortcuts_1.0.0_iphoneos-arm.deb
+Size: 3116
+MD5sum: 52621aed8622f40f157516206507098e
+SHA1: 20820dcb717b1ed564685632eb67313975b4d5e9
+SHA256: 0afa12843d313bf3d99b3994f517cade4d139b8b953ee8355cf83ab40c6fa260
+Section: Tweaks
+Description: Removes useless Twitter 3d touch items.
+Author: cole cabral
+Depiction: http://ca13ra1.github.io/repo/twitter3dshortcuts/index.html
+Name: Twitter3DShortcuts
+
+Package: com.cc.sb3dtouchcolor
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: cole cabral
+Installed-Size: 348
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.cc.sb3dtouchcolor_0.0.1_iphoneos-arm.deb
+Size: 73380
+MD5sum: b7b12d09a668f2fa0fc59668e657a605
+SHA1: 359b3bd37cac00fd6fe8987c944a536b6d20f747
+SHA256: 8e3159d638742db23a0a676699bb6e1ab016a24fcb5219312feabc748461f690
+Section: Tweaks
+Description: Shortcut menu color based on app icon.
+Author: cole cabral
+Depiction: http://ca13ra1.github.io/repo/sb3dtouchcolor/index.html
+Name: SB3DTouchColor
+
